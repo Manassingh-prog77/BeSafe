@@ -28,7 +28,7 @@ const aiDoctor = () => {
         headers: {
           'Content-Type': 'application/json',
           'x-rapidapi-host': 'chatgpt-42.p.rapidapi.com',
-          'x-rapidapi-key': 'YOUR_RAPIDAPI_KEY', // Replace with your actual RapidAPI key
+          'x-rapidapi-key': 'YOUR_RAPIDAPI_KEY', 
         },
         body: JSON.stringify({
           messages: [userMessage],
