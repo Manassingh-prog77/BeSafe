@@ -21,7 +21,7 @@ const Map = () => {
         longitudeDelta: 0.0421,
     });
 
-    const apiKey = '5160c71851fc46b28f5f359c9aa0e3f1';
+    const apiKey = 'Enter_Your_Api_Key';
     const searchRadius = 500; // Stop if a facility is found within 500 meters
 
     const getDistance = (lat1, lon1, lat2, lon2) => {
