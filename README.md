@@ -1,4 +1,3 @@
-
 # BeSafe
 
 **BeSafe** is a women protection app designed to empower women by providing safety, support, and resources during distressing situations. With a focus on real-time assistance and community, BeSafe offers a suite of features aimed at ensuring personal safety and enhancing self-defense awareness.
